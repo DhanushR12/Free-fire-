@@ -1,2 +1,2 @@
-# Free-fire-
+# Free fire
  free fire maps recreating
